@@ -1,0 +1,14 @@
+Sito clone di Youtube.
+
+In questo secondo progetto ho realizzato un sito clone di Youtube.
+
+Tecnologie usate: HTML, CSS, Javascript.
+
+Ho impiegato due settimane per realizzare tale sito, mi sono concentrato soprattutto sul front end, con l' uso estensivo di HTML e CSS. Per realizzare tale clone, mi sono inspirato ad un tutorial che ho visto su Youtube, modificandone però la struttura molto profondamente: ho usato il mio proprio stile, ho implementato funzionalità non utilizzate/spiegate in tale tutorial e, usando molto lo "strumento sviluppatori" di Google, ho cercato di capire la struttura di generale di Youtube per poi poterla duplicare sul mio sito.
+
+Le maggiori difficoltò che ho affrontato riguardano soprattuto l' ambito del design e del responsive design, quest' ultimo soprattutto poichè ho voluto realizzare una versione desktop di ICube e una mobile totalmente differenti che si avvicinino a quelli di Youtube. Riguardo al design, ho modificato la struttura del mio codice HTML per permettere di correggere piccole imperfezioni e bugs, e usando google, ho trovato alcune risposte ai miei problemi riguardo lato CSS.
+
+Avrei voluto implementare un modo per oscurare la pagina una volta aperto il menù tendina, così da impedire click accidentali, ma dato che avrei dovuto oscurare il body intero, e rimodificare profondamente il mio codice, ho voluto mettere a lato l' aggiunta di tale funzionalità.
+Mi sono limitato a realizzare solamente la pagina principale e alcuni video poichè la realizzazione di un vero e proprio clone completo avrebbe richiesto molto tempo e dedizione, i quali avrei voluto spendere in differenti progetti.
+
+Grazie a questo progetto ho potuto affinare le mie skills riguardo HTML e CSS, che a tal proposito mi ritengo di avere adesso un livello abbastanza discreto. Ora nei miei futuri progetti punterò ad imparare meglio Javascript, magari aggiungendo qualche altra tecnologia come PHP e MySQL.
